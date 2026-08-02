@@ -77,7 +77,7 @@ const navBar=({company}) => { // curly braces jaha dekho smaj jao ki destructuri
 navBar(company = "Hitesh")
 
 
-    // ***********************************    API ***********************************
+    // *********************************** API ***********************************
 
     // {   // api es format me bhi mil sakte hai
     //     "name" : "Satyam",
